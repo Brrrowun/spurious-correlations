@@ -12,6 +12,6 @@ Aside from anything else it has **pretty visualization** which can be universall
 To see it online I refer you to [Bug Note](##bug-note), alternatively you can clone the repo and use the requirements.txt to setup your own virtual environment and run it!
 
 ## Bug Note
-The graphs are written in plot.ly and seem to be struggerling to render in gist, please view on [nbviewer](nbviewer.jupyter.org) or another notebook viewer.
+The graphs are written in plot.ly and seem to be struggerling to render in gist, please view on [nbviewer](http://nbviewer.jupyter.org) or another notebook viewer.
 
 For those too lazy to type, the link as of now is [here for nbviewer](http://nbviewer.jupyter.org/gist/Brrrowun/bb7e6531b9950d412115a945c3066b24).
